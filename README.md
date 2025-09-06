@@ -11,12 +11,12 @@ Focus on natural language processing, ethical AI, and sensitive content detectio
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Tahiyat Taifi       | @Tahiyatt   |           |
-| Em K                | @emmakatz06 |           |
-| Manasvi Bhatnagar   | @Manasvi-25          |           |
-| Priyanshi Johari    |           |           |
-| Shanzita Siddiqua   |           |           |
-| Vannessa Chan       |           |          |
+| Tahiyat Taifi       | @Tahiyatt         |           |
+| Em K                | @emmakatz06       |           |
+| Manasvi Bhatnagar   | @Manasvi-25       |           |
+| Priyanshi Johari    | @Priyanshi-Johari |           |
+| Shanzita Siddiqua   |                   |           |
+| Vannessa Chan       | @vuhness          |          |
 
 ---
 ## 🏗️ **Project Overview**
