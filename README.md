@@ -13,7 +13,7 @@ Focus on natural language processing, ethical AI, and sensitive content detectio
 |------------------|---------------|--------------------------------------------------------------------------|
 | Tahiyat Taifi       | @Tahiyatt   |           |
 | Em K                | @emmakatz06 |           |
-| Manasvi Bhatnagar   |           |           |
+| Manasvi Bhatnagar   | @Manasvi-25          |           |
 | Priyanshi Johari    |           |           |
 | Shanzita Siddiqua   |           |           |
 | Vannessa Chan       |           |          |
