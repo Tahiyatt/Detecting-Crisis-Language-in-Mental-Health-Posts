@@ -15,7 +15,7 @@ Focus on natural language processing, ethical AI, and sensitive content detectio
 | Em K                | @emmakatz06       |           |
 | Manasvi Bhatnagar   | @Manasvi-25       |           |
 | Priyanshi Johari    | @Priyanshi-Johari |           |
-| Shanzita Siddiqua   |                   |           |
+| Shanzita Siddiqua   |  @Shanzita        |           |
 | Vannessa Chan       | @vuhness          |          |
 
 ---
